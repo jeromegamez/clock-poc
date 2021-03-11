@@ -1,6 +1,6 @@
 # Clock POC
 
-Proof of concept for the proposed clock PSR
+Proof of concept for the proposed clock PSR (https://github.com/php-fig/fig-standards/pull/1224)
 
 <!--
 ## Installation
