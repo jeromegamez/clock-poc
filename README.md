@@ -13,3 +13,5 @@ $ composer require jeromegamez/clock-poc
 ```shell
 $ composer test
 ```
+
+This project was generated with https://github.com/jeromegamez/cookiecutter-php
